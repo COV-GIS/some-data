@@ -1,4 +1,6 @@
-### cities
+# columbia county
+
+### [cities](cities.geojson)
 
 description: city limits in columbia county
 
@@ -10,7 +12,7 @@ copyright: columbia county, oregon
 
 [rest](https://gis.columbiacountymaps.com/server/rest/services/BaseData/Districts_and_Boundaries/MapServer/1)
 
-### county
+### [county](county.geojson)
 
 description: columbia county boundary
 
