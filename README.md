@@ -1,7 +1,11 @@
-# some-data
+# some data
 
-### [columbia county](columbia-county)
+just some data
 
-[cities](columbia-county/cities.geojson)
+## [columbia county](columbia-county)
 
-[county](columbia-county/county.geojson)
+[cities](columbia-county/#cities)
+
+[county](columbia-county/#county)
+
+made with :heart: and :coffee: in vernonia, oregon
