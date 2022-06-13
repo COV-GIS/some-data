@@ -1,7 +1,7 @@
 # some-data
 
-### [columbia county](/columbia-county)
+### [columbia county](columbia-county)
 
-[cities](/columbia-county/cities.geojson)
+[cities](columbia-county/cities.geojson)
 
-[county](/columbia-county/county.geojson)
+[county](columbia-county/county.geojson)
