@@ -8,4 +8,8 @@ just some data
 
 [county](columbia-county/#county)
 
+[sections](columbia-sections/#sections)
+
+[townships](columbia-county/#townships)
+
 made with :heart: and :coffee: in vernonia, oregon
