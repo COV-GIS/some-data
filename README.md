@@ -8,7 +8,7 @@ just some data
 
 [county](columbia-county/#county)
 
-[sections](columbia-sections/#sections)
+[sections](columbia-county/#sections)
 
 [townships](columbia-county/#townships)
 
