@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "dom",
+    ],
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "paths": {
+      "tslib": ["./node_modules/tslib/tslib.d.ts"]
+    },
+    "experimentalDecorators": true,
+    "target": "ES6",
+    "module": "es2022",
+    "declaration": true,
+    "types": []
+  },
+  "include": [
+    "columbia-county/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
